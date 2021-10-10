@@ -219,7 +219,7 @@ def display_data(df):
         start_loc = start_loc + 5
         print(df.iloc[start_loc:start_loc+5])
         print("You have just viewed a sample of the data requested")
-        #display data function can be added to the main function
+        #display data function can be added to the function below
 
 
 def main():
